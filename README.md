@@ -18,17 +18,17 @@ HTML, CSS, JavaScript · Python, C · Java (beginner) · SQL (currently studying
 - **Cisco Networking Academy — Python Essentials 1 (PCEP_TI12_26), May 2026 — Digital Badge** (shareable via Credly). Course completion, not the PCEP exam.
 - **APII Béja — Training session "La prise des notes", October 2025** — participation attestation.
 
-  ![APII Béja — "La prise des notes", October 2025](certificates/apii-note-taking-oct-2025.jpg)
+  ![APII Béja — "La prise des notes", October 2025]
 
 - **INJAZ Tunisia — Innovation Camp** — Certificate of Participation.
 
-  ![INJAZ Tunisia — Innovation Camp](certificates/injaz-innovation-camp.jpg)
+  ![INJAZ Tunisia — Innovation Camp]
 
 ## Experience
 
 - **IT Intern — Kromberg & Schubert, Béja, Tunisia (5 January 2026 — 30 January 2026).** One-month initiation internship in the IT department.
 
-  ![Kromberg & Schubert — Internship attestation](certificates/kromberg-schubert-internship-attestation.jpg)
+  ![Kromberg & Schubert — Internship attestation]
 
 ## Languages
 
